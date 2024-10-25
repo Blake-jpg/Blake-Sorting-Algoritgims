@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nevaeh.hunt\\source\\repos\\Blake-Sorting-Algoritgims\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D766FC-0686-40ED-82EF-F9F654669A61}|Blake-Sorting-Algoritgims\\Blake-Sorting-Algoritgims.csproj|c:\\users\\nevaeh.hunt\\source\\repos\\blake-sorting-algoritgims\\blake-sorting-algoritgims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D766FC-0686-40ED-82EF-F9F654669A61}|Blake-Sorting-Algoritgims\\Blake-Sorting-Algoritgims.csproj|solutionrelative:blake-sorting-algoritgims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nevaeh.hunt\\source\\repos\\Blake-Sorting-Algoritgims\\Blake-Sorting-Algoritgims\\Program.cs",
+              "RelativeDocumentMoniker": "Blake-Sorting-Algoritgims\\Program.cs",
+              "ToolTip": "C:\\Users\\nevaeh.hunt\\source\\repos\\Blake-Sorting-Algoritgims\\Blake-Sorting-Algoritgims\\Program.cs",
+              "RelativeToolTip": "Blake-Sorting-Algoritgims\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:27:06.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

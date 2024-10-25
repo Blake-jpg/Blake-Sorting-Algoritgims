@@ -1,0 +1,14 @@
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\bin\Release\net8.0\Blake-Sorting-Algoritgims.exe
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\bin\Release\net8.0\Blake-Sorting-Algoritgims.deps.json
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\bin\Release\net8.0\Blake-Sorting-Algoritgims.runtimeconfig.json
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\bin\Release\net8.0\Blake-Sorting-Algoritgims.dll
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\bin\Release\net8.0\Blake-Sorting-Algoritgims.pdb
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\obj\Release\net8.0\Blake-Sorting-Algoritgims.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\obj\Release\net8.0\Blake-Sorting-Algoritgims.AssemblyInfoInputs.cache
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\obj\Release\net8.0\Blake-Sorting-Algoritgims.AssemblyInfo.cs
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\obj\Release\net8.0\Blake-Sorting-Algoritgims.csproj.CoreCompileInputs.cache
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\obj\Release\net8.0\Blake-Sorting-Algoritgims.dll
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\obj\Release\net8.0\refint\Blake-Sorting-Algoritgims.dll
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\obj\Release\net8.0\Blake-Sorting-Algoritgims.pdb
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\obj\Release\net8.0\Blake-Sorting-Algoritgims.genruntimeconfig.cache
+C:\Users\nevaeh.hunt\source\repos\Blake-Sorting-Algoritgims\Blake-Sorting-Algoritgims\obj\Release\net8.0\ref\Blake-Sorting-Algoritgims.dll
